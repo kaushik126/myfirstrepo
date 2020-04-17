@@ -1,0 +1,4 @@
+[submodule "roles/jenkins-server"]
+	path = roles/jenkins-server
+	url = git@git.ad.inseego.com:kaushik.kambadur/jenkins-server.git
+
